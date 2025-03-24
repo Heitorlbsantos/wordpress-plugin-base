@@ -202,4 +202,5 @@ load_plugin_textdomain('meu-plugin', false, dirname(plugin_basename(__FILE__)) .
 
 ---
 
-**Mantenha consistência. Código limpo, seguro e previsível é mais fácil de evoluir.**
+**Mantenha consistência. Código limpo, seguro e previsível é mais fácil de evoluir.
+Lembre-se: Quem é fiel no pouco também é no muito.**
